@@ -1,2 +1,2 @@
-# algorithms-in-scala
+# Algorithms In Scala
 Algorithms in Scala
